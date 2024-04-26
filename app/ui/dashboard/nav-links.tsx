@@ -1,3 +1,7 @@
+/*
+ * @FilePath: /Users/i104/next-demo/app/ui/dashboard/nav-links.tsx
+ * @author: dongyang(yang.dong@derbysoft.net)
+ */
 'use client';
 
 import {
@@ -23,7 +27,7 @@ const links = [
 
 export default function NavLinks() {
   const pathname = usePathname();
-  console.log({ pathname });
+  // console.log({ pathname });
   return (
     <>
       {links.map((link) => {
