@@ -17,17 +17,19 @@ const iconMap = {
   invoices: InboxIcon,
 };
 
+interface CardProps {
+  totalPaidInvoices: number;
+  totalPendingInvoices: number;
+  numberOfInvoices: number;
+  numberOfCustomers: number;
+}
+
 export default async function CardWrapper({
   totalPaidInvoices,
   totalPendingInvoices,
   numberOfInvoices,
   numberOfCustomers,
-}: {
-  totalPaidInvoices: number;
-  totalPendingInvoices: number;
-  numberOfInvoices: number;
-  numberOfCustomers: number;
-}) {
+}: CardProps) {
   return (
     <>
       {/* NOTE: comment in this code when you get to this point in the course */}
