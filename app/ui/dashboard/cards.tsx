@@ -24,12 +24,12 @@ interface CardProps {
   numberOfCustomers: number;
 }
 
-export default async function CardWrapper({
+const CardWrapper = async ({
   totalPaidInvoices,
   totalPendingInvoices,
   numberOfInvoices,
   numberOfCustomers,
-}: CardProps) {
+}: CardProps): Promise<React.ReactElement> => {
   return (
     <>
       {/* NOTE: comment in this code when you get to this point in the course */}
@@ -44,7 +44,9 @@ export default async function CardWrapper({
       />
     </>
   );
-}
+};
+
+export default CardWrapper;
 
 export function Card({
   title,
