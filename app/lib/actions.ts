@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/app/lib/actions.ts
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 'use server';
 import { z } from 'zod';
 import { sql } from '@vercel/postgres';

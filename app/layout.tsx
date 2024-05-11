@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/app/layout.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import { Metadata } from 'next';
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';

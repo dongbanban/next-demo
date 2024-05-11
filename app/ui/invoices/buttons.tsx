@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/app/ui/invoices/buttons.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import { PencilIcon, PlusIcon, TrashIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import { deleteInvoice } from '@/app/lib/actions';

@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/app/dashboard/invoices/error.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 'use client';
 
 import { useEffect } from 'react';

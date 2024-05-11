@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/nextjs-dashboard/app/dashboard/layout.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import SideNav from '@/app/ui/dashboard/sidenav';
 
 export default function Layout({ children }: { children: React.ReactNode }) {

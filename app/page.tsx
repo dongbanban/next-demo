@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/nextjs-dashboard/app/page.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import AcmeLogo from '@/app/ui/acme-logo';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';

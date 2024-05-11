@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/app/not-found.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import Link from 'next/link';
 
 export default function NotFound() {

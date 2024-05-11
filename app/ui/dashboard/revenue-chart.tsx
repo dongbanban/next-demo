@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/app/ui/dashboard/revenue-chart.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import { generateYAxis } from '@/app/lib/utils';
 import { CalendarIcon } from '@heroicons/react/24/outline';
 import { lusitana } from '@/app/ui/fonts';

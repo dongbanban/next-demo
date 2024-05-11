@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/nextjs-dashboard/app/ui/fonts.ts
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import { Inter, Lusitana } from 'next/font/google';
 
 export const inter = Inter({ subsets: ['latin'] });

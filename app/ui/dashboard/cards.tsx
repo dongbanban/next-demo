@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/app/ui/dashboard/cards.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import {
   BanknotesIcon,
   ClockIcon,

@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/app/ui/search.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 'use client';
 
 import { MagnifyingGlassIcon } from '@heroicons/react/24/outline';

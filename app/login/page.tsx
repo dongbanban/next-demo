@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/app/login/page.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import AcmeLogo from '@/app/ui/acme-logo';
 import LoginForm from '@/app/ui/login-form';
 

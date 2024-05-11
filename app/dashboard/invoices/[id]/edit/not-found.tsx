@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/app/dashboard/invoices/[id]/edit/not-found.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import Link from 'next/link';
 import { FaceFrownIcon } from '@heroicons/react/24/outline';
 

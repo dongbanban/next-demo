@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/middleware.ts
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import NextAuth from 'next-auth';
 import { authConfig } from './auth.config';
 

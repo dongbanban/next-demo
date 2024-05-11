@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/app/ui/login-form.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 'use client';
 
 import { lusitana } from '@/app/ui/fonts';

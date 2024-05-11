@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/nextjs-dashboard/app/ui/invoices/InvoiceStatus.jsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import clsx from 'clsx';
 
 export default function InvoiceStatus({ status }) {

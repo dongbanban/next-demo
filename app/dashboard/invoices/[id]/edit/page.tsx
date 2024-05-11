@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/app/dashboard/invoices/[id]/edit/page.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import Form from '@/app/ui/invoices/edit-form';
 import Breadcrumbs from '@/app/ui/invoices/breadcrumbs';
 import { fetchInvoiceById, fetchCustomers } from '@/app/lib/data';

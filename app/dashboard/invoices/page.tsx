@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/app/dashboard/invoices/page.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import { Suspense } from 'react';
 import Pagination from '@/app/ui/invoices/pagination';
 import Search from '@/app/ui/search';

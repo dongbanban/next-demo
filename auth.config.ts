@@ -1,7 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/auth.config.ts
- * @author: dongyang(yang.dong@derbysoft.net)
- */
 import type { NextAuthConfig } from 'next-auth';
 
 export const authConfig = {

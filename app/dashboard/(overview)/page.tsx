@@ -1,8 +1,3 @@
-/*
- * @FilePath: /Users/i104/next-demo/app/dashboard/(overview)/page.tsx
- * @author: dongyang(yang.dong@derbysoft.net)
- */
-
 // import { Card } from '@/app/ui/dashboard/cards';
 import RevenueChart from '@/app/ui/dashboard/revenue-chart';
 import LatestInvoices from '@/app/ui/dashboard/latest-invoices';
